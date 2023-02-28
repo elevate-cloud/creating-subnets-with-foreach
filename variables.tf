@@ -4,9 +4,3 @@ variable "number_of_subnets" {
   default =2
 }
 
-variable "resource_group_name" {
-  type = string
-  value= app-grp
-
-  
-}
